@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\wd01-text.props" />
+</Project>

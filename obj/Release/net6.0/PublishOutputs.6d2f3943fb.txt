@@ -1,0 +1,7 @@
+E:\Projects\wd01-text\wd01-text\obj\Release\net6.0\PubTmp\Out\wd01-text.exe
+E:\Projects\wd01-text\wd01-text\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+E:\Projects\wd01-text\wd01-text\obj\Release\net6.0\PubTmp\Out\appsettings.json
+E:\Projects\wd01-text\wd01-text\obj\Release\net6.0\PubTmp\Out\wd01-text.dll
+E:\Projects\wd01-text\wd01-text\obj\Release\net6.0\PubTmp\Out\wd01-text.deps.json
+E:\Projects\wd01-text\wd01-text\obj\Release\net6.0\PubTmp\Out\wd01-text.runtimeconfig.json
+E:\Projects\wd01-text\wd01-text\obj\Release\net6.0\PubTmp\Out\wd01-text.pdb
